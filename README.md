@@ -5,10 +5,10 @@ Full-Stack PHP Developer | Backend, Infrastructure & Linux Administration
 </h3>
 
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/roman-morgunov/">
+  <a href="https://www.linkedin.com/in/roman-morgunov/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a target="_blank" href="https://hyperskill.org/my-learning/122725297">
+  <a href="https://hyperskill.org/my-learning/122725297">
     <img src="https://img.shields.io/badge/JetBrains_Academy-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="Hyperskill">
   </a>
 </p>
