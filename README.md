@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi there! I'm Roman 👋</h1>
 
 <h3 align="center">
@@ -56,7 +55,7 @@ I enjoy creating custom backend solutions, developing my own frameworks, and des
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,java,js,html,css,mysql,redis,nginx,apache,docker,linux,git,github,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=php,java,js,html,css,mysql,redis,nginx,docker,linux,git,github,cloudflare" />
   </a>
 </p>
 
@@ -109,15 +108,9 @@ Minimal starter template for modern PHP applications.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=daranger&theme=dark&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daranger&show_icons=true&theme=dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daranger&layout=compact&theme=dark&hide_border=true" />
-</p>
 
----
 
 ## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/roman-morgunov/
 - GitHub: https://github.com/daranger
-```
